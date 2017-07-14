@@ -1,0 +1,27 @@
+{
+  "name": "skye-utils",
+  "version": "1.0.1",
+  "description": "常用的 Javascript 通用函式",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlyMaple/skye-utils.git"
+  },
+  "keywords": [
+    "javascript",
+    "nodejs",
+    "common",
+    "utils",
+    "react",
+    "tools"
+  ],
+  "author": "FlyMaple",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FlyMaple/skye-utils/issues"
+  },
+  "homepage": "https://github.com/FlyMaple/skye-utils#readme"
+}
